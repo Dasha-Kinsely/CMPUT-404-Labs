@@ -1,0 +1,3 @@
+[submodule "lab-3/cgi-lab"]
+	path = lab-3/cgi-lab
+	url = https://github.com/Dasha-Kinsely/CMPUT-404-Labs
