@@ -1,0 +1,8 @@
+Q1: os.environ
+Q2: os.environ["QUERY_STRING"]
+Q3: os.environ["HTTP_USER_AGENT"]
+Q4: cgi.FieldStorage()
+Q5: from http.cookies import SimpleCookie
+SimpleCookie(os.environ["HTTP_COOKIE"]).get([NAME_OF_COOKIE]).value
+Q6: direct assignment with '='
+Q7: data storage that can be accessed by client browser or the server. They are stored locally.
